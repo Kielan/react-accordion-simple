@@ -13,7 +13,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import AutoComplete from 'material-ui/AutoComplete';
 import {Toolbar, ToolbarGroup, ToolbarSeparator, ToolbarTitle} from 'material-ui/Toolbar';
-import Collapse, { Panel } from 'rc-collapse';
+//import Collapse, { Panel } from 'rc-collapse';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import IconMenu from 'material-ui/IconMenu';
 import IconButton from 'material-ui/IconButton';
@@ -132,7 +132,7 @@ export default class HomePage extends React.Component {
 	    </div>
 	    </div>
 
-	    <CampaignsAccordion />
+	    <Accordion />
 	
 	    </div>
 	    </div>

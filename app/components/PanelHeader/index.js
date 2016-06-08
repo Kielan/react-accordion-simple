@@ -39,7 +39,7 @@ const materialStyle = {
 	fontWeight: 400,
     },
 }
-export default class AccordionHeader extends React.Component {
+export default class PanelHeader extends React.Component {
 
   render() {
       return (
