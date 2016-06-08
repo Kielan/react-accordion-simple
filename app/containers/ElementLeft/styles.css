@@ -1,0 +1,15 @@
+.actionHome {
+    color: white;
+    font-size: 24px;
+}
+
+.flex {
+    flex: 1;
+    color: green;
+}
+
+.Menu {
+    flex: 1;
+    height: 48px;
+    width: 48px;
+}
