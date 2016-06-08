@@ -12,6 +12,9 @@ const panelStyle = {
     },
     sectionOpen: {
 	height: 120,
+	overflow: 'hidden',
+	transition: 'all .2s ease-in',
+	
     }
 }
 
